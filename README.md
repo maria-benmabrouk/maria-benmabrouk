@@ -5,7 +5,7 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1E2F3D&center=true&vCenter=true&width=550&speed=60&lines=Hi+I+am+Maria+Ben+Mabrouk;Student+at+ESI+Algiers" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1E2F3D&center=true&vCenter=true&width=600&speed=60&lines=Hi+I+am+Maria+Ben+Mabrouk;Student+at+ESI+Algiers" />
 </p>
 
 
