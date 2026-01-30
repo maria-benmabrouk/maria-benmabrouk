@@ -2,8 +2,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1E2F3D&center=true&vCenter=true&width=600&speed=60&lines=Hi+I+am+Maria+Ben+Mabrouk;Student+at+ESI+Algiers" />
 </p>
