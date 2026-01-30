@@ -44,5 +44,3 @@
 
 ###
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-benmabrouk&layout=compact&theme=tokyonight)
-
