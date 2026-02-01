@@ -30,17 +30,17 @@
 
 ###
 
-## 🔥 Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=maria-benmabrouk&theme=radical&cache_seconds=86000&hide_border=false&t=1)](https://git.io/streak-stats)
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maria-benmabrouk/maria-benmabrouk/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maria-benmabrouk/maria-benmabrouk/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maria-benmabrouk/maria-benmabrouk/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+## 📊 GITHUB status & MOST used languages
+![status](https://github-readme-stats-gamma-eosin-50.vercel.app/api?username=maria-benmabrouk&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-gamma-eosin-50.vercel.app/api/top-langs/?username=maria-benmabrouk&layout=compact&theme=radical&cache_seconds=1800&langs_count=12)
 
 ###
 
