@@ -28,7 +28,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
 </div>
 
----
 
 ###
 
