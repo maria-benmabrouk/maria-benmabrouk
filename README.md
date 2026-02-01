@@ -30,6 +30,12 @@
 
 ###
 
+## 🔥 Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KhalilBensaha&theme=radical&cache_seconds=86000&hide_border=false&t=1)](https://git.io/streak-stats)
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maria-benmabrouk/maria-benmabrouk/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maria-benmabrouk/maria-benmabrouk/output/pacman-contribution-graph.svg">
