@@ -42,7 +42,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1E2F3D&center=true&vCenter=true&width=600&speed=60&lines=📊+GitHub+status+and+Most+used+languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1E2F3D&center=true&vCenter=true&width=600&speed=60&lines=GitHub+status+and+Most+used+languages" />
 </p>
 
 ![status](https://github-readme-stats-gamma-eosin-50.vercel.app/api?username=maria-benmabrouk&show_icons=true&theme=radical&cache_seconds=1800)
