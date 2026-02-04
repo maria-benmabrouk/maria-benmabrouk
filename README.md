@@ -47,7 +47,7 @@
 
 <div align="center">
 
-![status](https://github-readme-stats-gamma-eosin-50.vercel.app/api?username=maria-benmabrouk&show_icons=true&theme=radical&cache_seconds=1800)
+![status](https://github-readme-stats-gamma-eosin-50.vercel.app/api?username=maria-benmabrouk&show_icons=true&theme=github_dark&cache_seconds=1800)
 
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats-gamma-eosin-50.vercel.app/api/top-langs/?username=maria-benmabrouk&layout=compact&theme=radical&cache_seconds=1800&langs_count=12)
+![Top Langs](https://github-readme-stats-gamma-eosin-50.vercel.app/api/top-langs/?username=maria-benmabrouk&layout=compact&theme=github_dark&cache_seconds=1800&langs_count=12)
 
 </div>
 
