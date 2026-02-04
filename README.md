@@ -14,7 +14,7 @@
 
 👩‍💻 I'm Maria Ben Mabrouk  
 🎓 Computer Science student at ESI (Algeria)  
-🔍 I Interested in web development and solid programming foundations in C, algorithms & data structures  
+🔍 Interested in web development and strong programming foundations in C, algorithms & data structures
 🚀 Always curious, constantly learning, and building real projects  
 
 
@@ -52,9 +52,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1E2F3D&center=true&vCenter=true&width=600&speed=60&lines=📊+GitHub+status" />
-</p>
+<h2 align="center">📊 GitHub Status</h2>
 
 <div align="center">
 
@@ -62,9 +60,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1E2F3D&center=true&vCenter=true&width=600&speed=60&lines=📊+Most+used+languages" />
-</p>
+<h2 align="center">📊 Most used languages</h2>
 
 <div align="center">
   
@@ -74,9 +70,30 @@
 
 ###
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1E2F3D&center=true&vCenter=true&width=600&speed=60&lines=📊+Activity+Graph" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1E2F3D&center=true&vCenter=true&width=600&speed=60&lines=📊+GitHub+Statistics" />
 </p>
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app/?user=maria-benmabrouk&theme=tokyonight&border_radius=3.5)
+
+</div>
+
+<div align="center">
+  
+![trophy](https://github-profile-trophy-tawny.vercel.app/?username=maria-benmabrouk&theme=tokyonight)
+
+</div>
+
+###
+
+---
+
+<h2 align="center">📊 Activity Graph</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-benmabrouk&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" />
