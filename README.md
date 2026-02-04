@@ -74,6 +74,16 @@
 
 ###
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1E2F3D&center=true&vCenter=true&width=600&speed=60&lines=📊+Activity+Graph" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-benmabrouk&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
