@@ -14,7 +14,7 @@
 
 👩‍💻 I'm Maria Ben Mabrouk  
 🎓 Computer Science student at ESI (Algeria)  
-🔍 I specialize in web development and solid programming foundations in C, algorithms & data structures  
+🔍 I Interested in web development and solid programming foundations in C, algorithms & data structures  
 🚀 Always curious, constantly learning, and building real projects  
 
 
