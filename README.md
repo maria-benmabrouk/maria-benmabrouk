@@ -39,6 +39,10 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=latex" height="60" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="60" alt="eclipseide logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
 </div>
 
 
