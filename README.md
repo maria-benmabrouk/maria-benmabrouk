@@ -43,8 +43,6 @@
   <img src="https://skillicons.dev/icons?i=eclipse" height="60" alt="eclipseide logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
 </div>
 
 
