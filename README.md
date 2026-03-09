@@ -13,7 +13,7 @@
 </p>
 
 - 👩‍💻 I'm Maria Ben Mabrouk  
-- 🎓 Computer Science student at ESI (Algeria)  
+- 🎓 Computer Science student 
 - 🔍 Interested in web development and strong programming foundations in C, algorithms & data structures
 - 🚀 Always curious, constantly learning, and building real projects  
 
