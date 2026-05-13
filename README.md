@@ -12,10 +12,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1E2F3D&center=true&vCenter=true&width=600&speed=60&lines=✨+About+me" />
 </p>
 
-- 👩‍💻 I'm Maria Ben Mabrouk  
-- 🎓 Computer Science student 
-- 🔍 Interested in web development and strong programming foundations in C, algorithms & data structures
-- 🚀 Always curious, constantly learning, and building real projects  
+* 👩‍💻 I'm Maria Ben Mabrouk
+* 🎓 Computer Science student
+* 💡 Passionate about web development and building real-world applications
+* 🛠️ Experienced in both frontend and backend development
+* 🔍 Strong foundations in programming, algorithms & data structures
+* 🚀 Always curious, constantly learning, and building real projects 
 
 
 ---
@@ -67,25 +69,13 @@
 
 ---
 
-<h2 align="center">📊 GitHub Status</h2>
-
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-
-![status](https://github-readme-stats-gamma-eosin-50.vercel.app/api?username=maria-benmabrouk&show_icons=true&theme=github_dark&cache_seconds=1800)
-
+  <img src="https://github-readme-stats-gamma-eosin-50.vercel.app/api?username=maria-benmabrouk&show_icons=true&theme=github_dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats-gamma-eosin-50.vercel.app/api/top-langs/?username=maria-benmabrouk&layout=compact&theme=github_dark&cache_seconds=1800&langs_count=12" />
 </div>
 
-<h2 align="center">📊 Most used languages</h2>
 
-<div align="center">
-  
-![Top Langs](https://github-readme-stats-gamma-eosin-50.vercel.app/api/top-langs/?username=maria-benmabrouk&layout=compact&theme=github_dark&cache_seconds=1800&langs_count=12)
-
-</div>
-
-###
-
----
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
