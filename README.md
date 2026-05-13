@@ -46,6 +46,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
+  <img width="12" />
 </div>
 
 
@@ -93,16 +99,6 @@
   
 ![trophy](https://github-profile-trophy-tawny.vercel.app/?username=maria-benmabrouk&theme=tokyonight)
 
-</div>
-
-###
-
----
-
-<h2 align="center">📊 Activity Graph</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-benmabrouk&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ###
