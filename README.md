@@ -88,11 +88,7 @@
 
 </div>
 
-<div align="center">
-  
-![trophy](https://github-profile-trophy-tawny.vercel.app/?username=maria-benmabrouk&theme=tokyonight)
 
-</div>
 
 ###
 
