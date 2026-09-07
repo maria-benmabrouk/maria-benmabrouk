@@ -82,16 +82,6 @@
 
 
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app/?user=maria-benmabrouk&theme=tokyonight&border_radius=3.5)
-
-</div>
-
-
-
 ###
 
 <div>
