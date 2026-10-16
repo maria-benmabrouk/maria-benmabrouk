@@ -23,43 +23,43 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=latex" height="60" alt="latex logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="60" alt="eclipseide logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="supabase logo"  />
-  <img width="12" />
+  <img width="1" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
+  <img width="1" />
 </div>
 
 
