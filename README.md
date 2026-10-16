@@ -8,9 +8,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1E2F3D&center=true&vCenter=true&width=600&speed=60&lines=✨+About+me" />
-</p>
+<h2 align="center">✨ About me</h2>
 
 * 👩‍💻 I'm Maria Ben Mabrouk
 * 🎓 Computer Science student
